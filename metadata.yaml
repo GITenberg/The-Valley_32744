@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '35596'
     url: http://www.gutenberg.org/2009/agents/35596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32744#The-Valley
 gutenberg_issued: '2010-06-08'
 gutenberg_type: Text
 identifiers:
